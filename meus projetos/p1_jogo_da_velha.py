@@ -18,9 +18,6 @@ dicPosicao['c1'] = ' '
 dicPosicao['c2'] = ' '
 dicPosicao['c3'] = ' '
 
-# Solicitar o nome dos jogadores
-jogador1 = input(f'Qual o nome do primeiro jogador? ')
-jogador2 = input(f'Qual o nome do segundo jogador? ')
 
 # Identificando os simbolos disponíveis
 escolhaSimbolo1 = 'X'
